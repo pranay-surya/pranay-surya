@@ -1,18 +1,18 @@
+<h1 align="center">Hi, I'm Pranay Suryawanshi </h1>
+
+<h3 align="center">
+ML Learner | Python Developer | Data Analyst
+</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranay-surya&label=Profile%20Views&color=0e75b6&style=flat" alt="pranay-surya" />
 </p>
 
-<!--
-**pranay-surya/pranay-surya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###  About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning the fundamentals of Machine Learning, Data Analysis, and SQL  
+- Improving Python skills and understanding core ML concepts  
+- Practicing with hands-on projects to strengthen problem-solving abilities  
+- Focused on learning how to work with data in a structured and meaningful way  
