@@ -27,4 +27,9 @@ ML Learner | Python Developer | Data Analyst
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+___
+### Connect With Me
+- LinkedIn: https://linkedin.com/in/pranay-suryawanshi-3395903a4
+- Email: suryawanshipranay33@gmail.com
+- GitHub: [https://github.com/Bhavesh195](https://github.com/pranay-surya)
  
