@@ -31,5 +31,5 @@ ___
 ### Connect With Me
 - LinkedIn: https://linkedin.com/in/pranay-suryawanshi-3395903a4
 - Email: suryawanshipranay33@gmail.com
-- GitHub: https://github.com/pranay-surya)
+- GitHub: https://github.com/pranay-surya
  
