@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranay Suryawanshi</h1>
 
 <h3 align="center">ML Learner | Python Developer | Data Analyst</h3>
+<p align = "center">
+<img align = "center" src="https://komarev.com/ghpvc/?username=pranay-surya&label=Profile%20views&color=blue&style=flat" />
+</p>
 
- ---
+----
 
 ## About Me
 
