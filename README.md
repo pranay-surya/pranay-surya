@@ -54,17 +54,27 @@
 
 ### GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranay-surya&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranay-surya&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td colspan="2" align="center" style="border: none; padding-bottom: 10px;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranay-surya&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranay-surya&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td width="30%" align="center" valign="middle" style="border: none;">
+      <p> Github achievements</p>
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="75">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="75"><br>
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="75">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="75">
+    </td>
+    <td width="60%" align="center" valign="middle" style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranay-surya&theme=tokyonight&hide_border=true" height="170"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranay-surya&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-
-
-
+ 
 ---
 </div>
