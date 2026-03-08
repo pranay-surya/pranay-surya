@@ -53,7 +53,6 @@
 ---
 
 ### GitHub Activity & Stats
-
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td colspan="2" align="center" style="border: none; padding-bottom: 10px;">
@@ -63,7 +62,7 @@
   </tr>
   <tr style="border: none;">
     <td width="30%" align="center" valign="middle" style="border: none;">
-      <p> Github achievements</p>
+      <p>Github achievements</p>
       <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="75">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="75"><br>
       <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="75">
@@ -73,8 +72,12 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranay-surya&theme=tokyonight&hide_border=true" height="170"/>
     </td>
   </tr>
+  <tr style="border: none;">
+    <td colspan="2" align="center" style="border: none; padding-top: 10px;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranay-surya&theme=tokyo-night&hide_border=true" width="100%"/>
+    </td>
+  </tr>
 </table>
 
- 
 ---
 </div>
