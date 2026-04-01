@@ -24,7 +24,7 @@
 </tr>
 
 <tr>
-<td><b>Libraries</b></td>
+<td><b>ML Libraries</b></td>
 <td>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -51,35 +51,15 @@
 </table>
 
 ---
-### GitHub Activity & Stats
 
-<table align="center" width="90%">
-  <tr>
-    <td align="center" width="60%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranay-surya&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
-    </td>
-    <td align="center" width="55%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranay-surya&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranay-surya&theme=tokyonight&hide_border=true" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <b>GitHub Achievements</b><br/><br/>
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85"/>
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85"/>
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85"/>
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranay-surya&theme=tokyo-night&hide_border=true" width="100%"/>
-    </td>
-  </tr>
-</table>
+## Git Activity
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranay-surya&show_icons=true&theme=tokyonight&hide_border=true" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranay-surya&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 </div>
