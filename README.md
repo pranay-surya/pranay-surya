@@ -52,14 +52,4 @@
 
 ---
 
-## Git Activity
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranay-surya&show_icons=true&theme=tokyonight&hide_border=true" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranay-surya&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
 </div>
